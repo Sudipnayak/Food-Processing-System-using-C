@@ -1,0 +1,15 @@
+---------------------------------------
+|              Add Ons                |
+---------------------------------------
+|  36.Salad                     ₹ 39  |
+|  37.Soft Drinks               ₹ 79  |
+|  38.Mineral Water             ₹ 29  |
+|  39.Sweets(4 pieces)          ₹ 79  |
+|  40.Kheer                     ₹ 59  |
+|  41.Mango Pickle              ₹ 19  |
+|  42.French Fries              ₹ 49  |
+|  43.Extra Cheese              ₹ 69  |
+|  44.Salsa Sauce               ₹ 39  |
+|  45.mayonnaise                ₹ 29  |
+|  46.Bill                            |
+----------------------------------------

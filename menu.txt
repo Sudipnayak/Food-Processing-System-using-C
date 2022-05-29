@@ -1,0 +1,39 @@
+---------------------------------------
+|         B.Tech Restaurant           |
+---------------------------------------
+|  1.Steamed Rice               ₹ 89  |
+|  2.Jeera Rice                 ₹ 99  |
+|  3.Veg Pulao                  ₹ 129 |
+|  4.Paneer Makhni Biryani      ₹ 159 |
+|  5.Chicken Biryani            ₹ 169 |
+|  6.Mutton Biryani             ₹ 229 |
+|  7.Dal Fry                    ₹ 119 |
+|  8.Dal Tadka                  ₹ 129 |
+|  9.Dal makhni                 ₹ 139 |
+|  10.Egg Tadka                 ₹ 149 |
+|  11.Veg Korma                 ₹ 159 |
+|  12.Methi Malai Matar         ₹ 189 |
+|  13.Kadhai Paneer             ₹ 159 |
+|  14.Shahi Paneer              ₹ 179 |
+|  15.Palak Paneer              ₹ 179 |
+|  16.Paneer Butter Masala      ₹ 189 |
+|  17.Paneer Hyderabadi         ₹ 189 |
+|  18.Nawabi Paneer             ₹ 199 |
+|  19.Veg Diwani Handi          ₹ 179 |
+|  20.Gucchi Mutter             ₹ 149 |
+|  21.Kadhai Mushroom           ₹ 219 |
+|  22.Butter Chicken            ₹ 199 |
+|  23.Chicken Tikka Masala      ₹ 199 |
+|  24.Punjabi Chicken           ₹ 219 |
+|  25.Mumtazz Murgh             ₹ 219 |
+|  26.Noorani Chicken           ₹ 219 |
+|  27.Chicken Changezi          ₹ 219 |
+|  28.Chicken Haldi Ganti       ₹ 229 |
+|  29.Murgh Dum Pukt            ₹ 239 |
+|  30.Murgh Kali Mirch          ₹ 219 |
+|  31.Egg Keema Masala          ₹ 89  |
+|  32.Havana Special Chicken    ₹ 169 |
+|  33.Mutton Rista              ₹ 259 |
+|  34.Masala Mutton             ₹ 239 |
+|  35.Mutton Rogan Josh         ₹ 249 |
+---------------------------------------
